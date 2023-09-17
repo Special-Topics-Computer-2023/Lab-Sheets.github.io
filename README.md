@@ -12,6 +12,8 @@
 |8|การใช้งาน Seven segment 1-2 หลัก (C++, ESP-IDF) |○ ใบความรู้ 7 segment <br> ○ ใบงาน 8 การใช้งาน Seven segment 1-2 หลัก (C++, ESP-IDF)  |
 |9|FreeRTOS เบื้องต้น (C++, ESP-IDF) |○ ใบความรู้ FreeRTOS เบื้องต้น, การใช้งานการควบคุม Task <br>○ ใบงาน 9 ไฟกระพริบ (FreeRTOS)|
 |10|การใช้งาน Seven segment 2 หลัก (C++, ESP-IDF) บน FreeRTOS |○ ใบความรู้ การประสานระหว่าง FreeRTOS Task <br>○ ใบงาน 10 การใช้งาน Seven segment 2 หลัก <br>|
-|11| ||
-|12| ||
+|11| ใบงานการเชื่อมต่อ ESP32 กับ WiFi ในโหมด Station (STA) |[○ ใบงานการเชื่อมต่อ ESP32 กับ WiFi ในโหมด Station (STA)](https://github.com/Special-Topics-Computer-2023/ESP32_ESP-IDF_WiFi-STA)|
+|12| ใบงานการสร้าง Wi-Fi Access Point (AP) ด้วย ESP-IDF|[○ ใบงานการสร้าง Wi-Fi Access Point (AP) ด้วย ESP-IDF](https://github.com/Special-Topics-Computer-2023/ESP32_ESP-IDF_WiFi-AP)|
+|13| ESP32-Web-Server|[○ ESP32-Web-Server](https://github.com/Special-Topics-Computer-2023/ESP32-Web-Server)|
+
 
